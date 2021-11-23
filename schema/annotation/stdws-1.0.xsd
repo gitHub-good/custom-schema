@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<xsd:schema xmlns="http://www.xll.com/schema/std/ws"
+<xsd:schema xmlns="https://github.com/gitHub-good/custom-schema/tree/main/schema/annotation"
             xmlns:xsd="http://www.w3.org/2001/XMLSchema"
             xmlns:beans="http://www.springframework.org/schema/beans"
-            targetNamespace="http://www.xll.com/schema/std/ws"
+            targetNamespace="https://github.com/gitHub-good/custom-schema/tree/main/schema/annotation"
             elementFormDefault="qualified"
             attributeFormDefault="unqualified">
 
